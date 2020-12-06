@@ -7,13 +7,13 @@ Recognises faces using haar cascade classifier and LBPHF face recogniser.
 
 ## Demo
 
-![] (demo.gif)
+![](demo.gif)
 
 ## How to use
- To add a face run:
- ```python Data_collector.py --name "Name-of-the-person"```
- To train the trainer on the dataset run:
- ```python train.py```
- To test the trainer run:
- ```python recognizer.py```
+ To add a face run:_
+ ```python Data_collector.py --name "Name-of-the-person"```_
+ To train the trainer on the dataset run:_
+ ```python train.py```_
+ To test the trainer run:_
+ ```python recognizer.py```_
 

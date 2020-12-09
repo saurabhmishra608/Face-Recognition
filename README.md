@@ -9,7 +9,7 @@ Recognises faces using haar cascade classifier and LBPHF face recogniser.
 
 ![](demo.gif)
 
-## How to use
+## Usage
  To add a face run: <br />
  ```python Data_collector.py --name "Name-of-the-person"``` <br />
  To train the trainer on the dataset run: <br />
